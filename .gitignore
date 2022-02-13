@@ -1,0 +1,6 @@
+.idea
+.history
+*.out
+certs/
+.vscode
+app
